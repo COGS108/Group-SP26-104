@@ -188,3 +188,6 @@ data/*.sq*
 data/*/*.sq*
 data/*.SQ*
 data/*/*.SQ*
+
+#Large dataset
+data/00-raw/2024 BRFFS.XPT
